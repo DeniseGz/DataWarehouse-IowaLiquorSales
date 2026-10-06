@@ -30,6 +30,8 @@ El procesamiento de los datos se desarrolló mediante scripts en **Python (Panda
 - **Limpieza y Filtrado:** Tratamiento de valores nulos, normalización de cadenas de texto y eliminación de anomalías estructurales en el dataset original.
 - **Generación de Catálogos Únicamente Normalizados:** Extracción de entidades maestras (como el mapeo único de las más de 2,000 tiendas y productos) para asegurar la integridad referencial del modelo dimensional.
 
+*.ipynb linguist-language=Python
+
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 - **Python / Pandas:** Procesamiento y transformación de datos (ETL).
 - **Google Colab:** Entorno de ejecución en la nube para manejo eficiente de grandes volúmenes de datos.
