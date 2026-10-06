@@ -15,7 +15,7 @@ Repositorio oficial del proyecto de modelado dimensional e ingeniería de datos 
 ## 🍷 Descripción del Proyecto 🏗️
 Este proyecto aborda la ingesta, limpieza, modelado y estructuración de un dataset masivo de más de **593,000 registros (120 MB)** de ventas de licor. El objetivo principal fue transformar datos crudos y desnormalizados en una arquitectura de almacenamiento optimizada para consultas analíticas de alto rendimiento (Business Intelligence).
 
-## 🏛️ Arquitectura: Modelo Estrella (Star Schema) 🌟
+## 🏛️ Arquitectura: Modelo Estrella (Star Schema) ⭐
 Se diseñó un esquema lógico relacional enfocado en la separación clara entre las métricas de negocio y su contexto descriptivo, implementado en `dbdiagram.io`:
 
 - **Tabla de Hechos (`hecho_ventas`):** Núcleo transaccional que almacena las métricas clave de cada venta (cantidad vendida, monto total y volumen en litros) junto a las claves foráneas de relación.
