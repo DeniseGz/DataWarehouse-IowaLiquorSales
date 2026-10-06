@@ -1,4 +1,4 @@
-# 🍷 🏗️ Data Warehouse & Pipeline ETL – Iowa Liquor Sales 🍸
+# 🍷 Data Warehouse & Pipeline ETL – Iowa Liquor Sales 🍸
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-8E4A23?style=flat&logo=python&logoColor=white" />
@@ -12,7 +12,7 @@
 
 Repositorio oficial del proyecto de modelado dimensional e ingeniería de datos para el análisis de ventas del estado de Iowa. 🍹
 
-## 🍹 Descripción del Proyecto
+## 🍹 Descripción del Proyecto 🏗️
 Este proyecto aborda la ingesta, limpieza, modelado y estructuración de un dataset masivo de más de **593,000 registros (120 MB)** de ventas de licor. El objetivo principal fue transformar datos crudos y desnormalizados en una arquitectura de almacenamiento optimizada para consultas analíticas de alto rendimiento (Business Intelligence).
 
 ## 🏛️ Arquitectura: Modelo Estrella (Star Schema)
