@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/GIT-512E5F?style=flat&logo=git&logoColor=white" />
 </p>
 
-Repositorio oficial del proyecto de modelado dimensional e ingeniería de datos para el análisis de ventas del estado de Iowa. 🍹
+*Repositorio oficial del proyecto de modelado dimensional e ingeniería de datos para el análisis de ventas del estado de Iowa.* 🍹
 
 ## 🍷 Descripción del Proyecto 🏗️
-Este proyecto aborda la ingesta, limpieza, modelado y estructuración de un dataset masivo de más de **593,000 registros (120 MB)** de ventas de licor. El objetivo principal fue transformar datos crudos y desnormalizados en una arquitectura de almacenamiento optimizada para consultas analíticas de alto rendimiento (Business Intelligence).
+Este proyecto aborda la ingesta, limpieza, modelado y estructuración de un dataset masivo de más de **593,000 registros (126 MB)** de ventas de licor. El objetivo principal fue transformar datos crudos y desnormalizados en una arquitectura de almacenamiento optimizada para consultas analíticas de alto rendimiento (Business Intelligence).
 
 ## 🏛️ Arquitectura: Modelo Estrella (Star Schema) ⭐
 Se diseñó un esquema lógico relacional enfocado en la separación clara entre las métricas de negocio y su contexto descriptivo, implementado en `dbdiagram.io`:
