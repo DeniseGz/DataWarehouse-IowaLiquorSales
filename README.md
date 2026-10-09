@@ -35,3 +35,5 @@ El procesamiento de los datos se desarrolló mediante scripts en **Python (Panda
 - **Google Colab:** Entorno de ejecución en la nube para manejo eficiente de grandes volúmenes de datos.
 - **dbdiagram.io:** Modelado conceptual y lógico de bases de datos.
 - **Markdown / Git:** Documentación y versionado del proyecto.
+
+*Designed and developed by DeniseGz © 2026*
